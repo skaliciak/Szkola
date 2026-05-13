@@ -1,0 +1,14 @@
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\bin\Debug\net10.0\escaperoomSK.exe
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\bin\Debug\net10.0\escaperoomSK.deps.json
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\bin\Debug\net10.0\escaperoomSK.runtimeconfig.json
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\bin\Debug\net10.0\escaperoomSK.dll
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\bin\Debug\net10.0\escaperoomSK.pdb
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\obj\Debug\net10.0\escaperoomSK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\obj\Debug\net10.0\escaperoomSK.AssemblyInfoInputs.cache
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\obj\Debug\net10.0\escaperoomSK.AssemblyInfo.cs
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\obj\Debug\net10.0\escaperoomSK.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\obj\Debug\net10.0\escaperoomSK.dll
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\obj\Debug\net10.0\refint\escaperoomSK.dll
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\obj\Debug\net10.0\escaperoomSK.pdb
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\obj\Debug\net10.0\escaperoomSK.genruntimeconfig.cache
+C:\Users\Komputer\source\repos\escaperoomSK\escaperoomSK\obj\Debug\net10.0\ref\escaperoomSK.dll
